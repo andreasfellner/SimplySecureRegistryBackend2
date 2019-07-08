@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "RUQIOYUIQTZUHYPG",
+    "database": "SecurityService",
+    "host": "aws-us-east-1-portal.24.dblayer.com",
+    "port": 28461,
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "admin",
+    "password": "RUQIOYUIQTZUHYPG",
+    "database": "SecurityService",
+    "port": 28461,
+    "host": "aws-us-east-1-portal.24.dblayer.com",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "admin",
+    "password": "RUQIOYUIQTZUHYPG",
+    "database": "SecurityService",
+    "port": 28461,
+    "host": "aws-us-east-1-portal.24.dblayer.com",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
