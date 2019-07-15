@@ -1,2 +1,2 @@
-# SimpleSecureRegistry Backend 
+# AIPOMA Backend 
 
